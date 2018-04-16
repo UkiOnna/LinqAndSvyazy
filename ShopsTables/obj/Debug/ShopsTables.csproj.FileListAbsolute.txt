@@ -1,0 +1,11 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\ShopsTables\ShopsTables\bin\Debug\ShopsTables.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\ShopsTables\ShopsTables\bin\Debug\ShopsTables.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ShopsTables\ShopsTables\bin\Debug\ShopsTables.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\ShopsTables\ShopsTables\bin\Debug\EntityFramework.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\ShopsTables\ShopsTables\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\ShopsTables\ShopsTables\bin\Debug\EntityFramework.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\ShopsTables\ShopsTables\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\ShopsTables\ShopsTables\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\ShopsTables\ShopsTables\obj\Debug\ShopsTables.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\ShopsTables\ShopsTables\obj\Debug\ShopsTables.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ShopsTables\ShopsTables\obj\Debug\ShopsTables.pdb
